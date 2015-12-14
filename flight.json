@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Air India",
+    "ArrivalTime": "8pm",
+    
+  },
+  {
+    "name": "Qutar",
+    "ArrivalTime": "9pm",
+    
+  },
+  {
+    "name": "Jet Airways",
+    "ArrivalTime": "1am",
+    
+  },
+  {
+    "name": "Spice Jet",
+    "ArrivalTime": "8pm",
+    
+  },
+  {
+    "name": "Emirates",
+    "ArrivalTime": "10pm",
+    
+  },
+ 
+]
